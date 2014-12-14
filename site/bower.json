@@ -1,0 +1,31 @@
+{
+  "name": "skeleton-front",
+  "version": "0.0.1",
+  "authors": [
+    "Bolinha",
+    "DiegoMi",
+    "Mushe"
+  ],
+  "description": "Skeleton com bower, gulp e stylus",
+  "main": "skeleton",
+  "keywords": [
+    "Skeleton",
+    "Team",
+    "Lambeixons"
+  ],
+  "license": "MIT",
+  "homepage": "localhost/skeleton/site",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests",
+    "public/assets",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular-latest": "~1.3.6",
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.3.1"
+  }
+}

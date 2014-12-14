@@ -1,0 +1,6 @@
+# Componentes do Bower
+site/public/assets/
+site/bower_components/
+
+#Modulos do Nodejs
+site/node_modules/
