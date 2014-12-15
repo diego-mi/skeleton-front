@@ -1,17 +1,24 @@
-SKELETON Silex - Front End
+<h1>SKELETON Silex - Front End</h1>
 
-[BackEnd] Projeto com
+<h2><strong>[BackEnd]</strong> Projeto com</h2>
 Framework PHP - Silex
 Composer
 
-[FrontEnd] Projeto com (/site)
+<h2><strong>[FrontEnd]</strong> Projeto com (/site)</h2>
 Npm - Nodejs
 Bower - (jquery,bootstrap,angular)
 Guntjs
 
-[FrontEnd] Instalação de dependencias
+<h2><strong>[FrontEnd]</strong> Instalação de dependencias</h2>
 na pasta skeleton-front/site
 no prompt, com nodejs instalado.
 
-$ npm install
-$ npm bower install
+
+<div class="highlight highlight-bash">
+	<pre>
+		<code>
+			$ npm install
+			$ npm bower install
+		</code>
+	</pre>
+</div>
